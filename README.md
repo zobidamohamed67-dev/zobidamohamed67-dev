@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm Zobida
 
-<!--
-**zobidamohamed67-dev/zobidamohamed67-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Python Developer | Video Editor | Content Creator | Social Media | C++ | Beginner App Developer
+Specific education tech department student
 
-Here are some ideas to get you started:
+I have worked on several projects in editing and content creation, including reels, educational videos, and social media visuals. Alongside this, I am continuously improving my skills in Python and C++ while learning app development fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently, I am focusing on:**
+- Python development
+- C++ development
+- Video editing and content creation
+- Social media strategies and content planning
+- Building small applications and improving my portfolio
+
+I’m always open to connecting with people in tech, media, and content creation. Feel free to reach out if you'd like to collaborate or share opportunities.
+
+---
+[LinkedIn Profile](www.linkedin.com/in/zobida-mohamed-756037337) | [Download My CV](./Zobida%20Mohamed_CV.pdf)
